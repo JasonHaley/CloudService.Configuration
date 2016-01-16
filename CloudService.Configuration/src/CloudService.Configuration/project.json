@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0-*",
+  "description": "CloudService.Configuration Class Library",
+  "authors": [ "Jason" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": {
+      "dependencies": {
+        "Microsoft.WindowsAzure.ServiceRuntime": "1.0.0-*"
+      }
+    }
+  },
+  "dependencies": {
+    "Microsoft.Extensions.Configuration": "1.0.0-rc1-final"
+  }
+}
